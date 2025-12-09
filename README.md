@@ -23,9 +23,9 @@ Includes full Verilog implementation, Quartus schematics, simulation waveforms, 
 ---
 
 ## 💻 Software Development Projects
-### **Airplane-Boarding-System (SE2205)**
+### **Airplane Boarding System (SE 2205)**
 This project is an interactive Airplane Boarding and Disembarking System built using Java and core data structures. It simulates real-world airline operations by using a queue for check-in, an ArrayList seat map for boarding passengers back-to-front, and a stack for disembarking them front-to-back. The system includes a user-friendly console interface that allows adding, removing, boarding, and offloading passengers while dynamically updating the aircraft’s seating layout.
 
 🔗 **Repo:** https://github.com/dylan-oesch/Airplane-Boarding-System                                 
-📄 *Technologies:* Java
+📄 *Technologies:* Java, OOP, Data Structures
 
