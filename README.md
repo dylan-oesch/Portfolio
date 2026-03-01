@@ -1,13 +1,15 @@
-# Portfolio
-Personal portfolio of projects.
-Welcome to my personal portfolio!  
+# Personal Engineering Portfolio
+
+Welcome to my personal engineering and software portfolio.
+
 This repository serves as a central hub linking to the engineering and software projects I’ve built.
 
 Each project below includes:
-- A detailed README  
+- A detailed README explaining design decisions and implementation 
 - Source code  
 - Schematics / simulations  
-- Screenshots and documentation  
+- Screenshots and documentation
+- Demonstration Media (where applicable) 
 
 ---
 
@@ -29,3 +31,12 @@ This project is an interactive Airplane Boarding and Disembarking System built u
 🔗 **Repo:** https://github.com/dylan-oesch/Airplane-Boarding-System                                 
 📄 *Technologies:* Java, OOP, Data Structures
 
+---
+
+## ⚙️ Personal Engineering Projects
+### Bomb Defusal Duel Game - Embedded Systems Project
+An Arduino-based Wordle-inspired code guessing game designed around a timed “bomb defusal” challenge. The system evaluates 4-digit guesses in real time, providing position-aware feedback while managing countdown logic, input validation, and state-based game control. The project integrates hardware inputs, LCD output, and algorithmic duplicate-digit handling to ensure accurate evaluation.
+
+🔗 **Repo:** https://github.com/dylan-oesch/bomb-defusal-game 
+
+📄 *Technologies:* Arduino (C++), I2C LCD, Embedded State Control Logic
