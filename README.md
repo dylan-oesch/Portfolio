@@ -36,9 +36,9 @@ This project is an interactive Airplane Boarding and Disembarking System built u
 ---
 
 ## ⚙️ Personal Engineering Projects
-### Bomb Defusal Duel Game - Embedded Systems Project
+### Bomb Defusal Game - Embedded Systems Project
 An Arduino-based Wordle-inspired code guessing game designed around a timed “bomb defusal” challenge. The system evaluates 4-digit guesses in real time, providing position-aware feedback while managing countdown logic, input validation, and state-based game control. The project integrates hardware inputs, LCD output, and algorithmic duplicate-digit handling to ensure accurate evaluation.
 
-🔗 **Repo:** https://github.com/dylan-oesch/bomb-defusal-game
+🔗 **Repo:** https://github.com/dylan-oesch/Bomb-Defusal-Game
 
 📄 *Technologies:* Arduino (C++), I2C LCD, Embedded State Control Logic
