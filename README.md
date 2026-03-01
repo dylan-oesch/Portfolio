@@ -19,7 +19,8 @@ Each project below includes:
 A hardware-implemented Moore FSM on the Intel DE10-Lite FPGA that detects 4-bit sequences derived from my student number using Gray code state assignment.  
 Includes full Verilog implementation, Quartus schematics, simulation waveforms, and project documentation.
 
-🔗 **Repo:** https://github.com/dylan-oesch/Serial-Sequence-Detector  
+🔗 **Repo:** https://github.com/dylan-oesch/Serial-Sequence-Detector
+
 📄 *Technologies:* Verilog, Quartus, ModelSim, FSM Design
 
 ---
